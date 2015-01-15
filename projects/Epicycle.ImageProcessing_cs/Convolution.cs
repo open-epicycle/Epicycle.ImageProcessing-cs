@@ -4,7 +4,7 @@ using System.Linq;
 using Epicycle.Commons;
 using Epicycle.Commons.Unsafe;
 using Epicycle.Math.Geometry;
-using Epicycle.Graphics;
+using Epicycle.Graphics.Images;
 
 namespace Epicycle.ImageProcessing
 {

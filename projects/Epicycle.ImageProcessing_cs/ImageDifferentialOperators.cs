@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 using Epicycle.Math;
-using Epicycle.Graphics;
+using Epicycle.Graphics.Images;
 
 namespace Epicycle.ImageProcessing
 {

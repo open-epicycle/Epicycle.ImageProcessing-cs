@@ -6,7 +6,7 @@ using NUnit.Framework;
 
 using Epicycle.Commons;
 using Epicycle.Math.Geometry;
-using Epicycle.Graphics;
+using Epicycle.Graphics.Images;
 
 namespace Epicycle.ImageProcessing
 {
