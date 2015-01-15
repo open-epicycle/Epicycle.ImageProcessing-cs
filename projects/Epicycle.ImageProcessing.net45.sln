@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2013 for Windows Desktop
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.30110.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epicycle.ImageProcessing_cs", "Epicycle.ImageProcessing_cs\Epicycle.ImageProcessing_cs.csproj", "{179C402F-38AA-4FD7-836C-62A34B6E0955}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epicycle.ImageProcessing_cs.net45", "Epicycle.ImageProcessing_cs\Epicycle.ImageProcessing_cs.net45.csproj", "{179C402F-38AA-4FD7-836C-62A34B6E0955}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epicycle.ImageProcessing_cs-Test", "Epicycle.ImageProcessing_cs-Test\Epicycle.ImageProcessing_cs-Test.csproj", "{39049D7B-6476-470C-8C9B-9428B7C50610}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epicycle.ImageProcessing_cs-Test.net45", "Epicycle.ImageProcessing_cs-Test\Epicycle.ImageProcessing_cs-Test.net45.csproj", "{39049D7B-6476-470C-8C9B-9428B7C50610}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
