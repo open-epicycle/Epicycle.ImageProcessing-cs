@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
+﻿using Epicycle.Graphics.Images;
 using Epicycle.Math;
-using Epicycle.Graphics.Images;
+using System.Linq;
 
 namespace Epicycle.ImageProcessing
 {

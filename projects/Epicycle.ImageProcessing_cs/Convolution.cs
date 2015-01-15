@@ -1,10 +1,7 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-
-using Epicycle.Commons;
+﻿using Epicycle.Commons;
 using Epicycle.Commons.Unsafe;
-using Epicycle.Math.Geometry;
 using Epicycle.Graphics.Images;
+using Epicycle.Math.Geometry;
 
 namespace Epicycle.ImageProcessing
 {

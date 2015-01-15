@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-using NUnit.Framework;
-
-using Epicycle.Commons;
+﻿using Epicycle.Graphics.Images;
 using Epicycle.Math.Geometry;
-using Epicycle.Graphics.Images;
+using NUnit.Framework;
 
 namespace Epicycle.ImageProcessing
 {
