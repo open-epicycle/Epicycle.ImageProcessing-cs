@@ -21,9 +21,9 @@
     <tags>epicycle lib library image processing convolution matrix sobel operator gaussian blur filter</tags>
 
     <dependencies>
-      <dependency id="Epicycle.Commons-cs" version="0.1.6.0" />
-      <dependency id="Epicycle.Math-cs" version="0.1.3.0" />
-      <dependency id="Epicycle.Graphics-cs" version="0.1.3.0" />
+      <dependency id="Epicycle.Commons-cs" version="0.1.8.0" />
+      <dependency id="Epicycle.Math-cs" version="0.1.6.0" />
+      <dependency id="Epicycle.Graphics-cs" version="0.1.6.0" />
     </dependencies>
   </metadata>
 </package>

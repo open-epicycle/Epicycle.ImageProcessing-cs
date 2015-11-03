@@ -19,4 +19,11 @@ xcopy bin\net45\Release\Epicycle.ImageProcessing_cs.dll NuGetPackage\Epicycle.Im
 xcopy bin\net45\Release\Epicycle.ImageProcessing_cs.pdb NuGetPackage\Epicycle.ImageProcessing-cs.0.1.1.0\lib\net45\
 xcopy bin\net45\Release\Epicycle.ImageProcessing_cs.xml NuGetPackage\Epicycle.ImageProcessing-cs.0.1.1.0\lib\net45\
 
+cd NuGetPackage
+nuget pack Epicycle.ImageProcessing-cs.0.1.1.0\Epicycle.ImageProcessing-cs.0.1.1.0.nuspec -Properties version=0.1.1.0
+7z a -tzip Epicycle.ImageProcessing-cs.0.1.1.0.zip Epicycle.ImageProcessing-cs.0.1.1.0 Epicycle.ImageProcessing-cs.0.1.1.0.nupkg
+
+echo nuget push Epicycle.ImageProcessing-cs.0.1.1.0.nupkg > push.cmd
+echo pause >> push.cmd
+
 pause
